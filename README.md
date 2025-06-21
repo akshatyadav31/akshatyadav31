@@ -11,14 +11,7 @@
 
 ## 🚀 About Me
 
-```javascript
-const akshat = {
-    pronouns: "he/him",
-    education: "B.Tech CSE @ VIT Bhopal",
-    currentFocus: ["Full Stack Development", "AI/ML", "Open Source", "Gen AI"],
-    funFact: "I turn coffee into code ☕ and bugs into features 🐛➡️✨"
-};
-```
+I'm a passionate **Computer Science Engineering student** at **VIT Bhopal** with a hunger to make a change, specializing in **Full Stack Development** and **AI/ML technologies**. My journey in tech has been driven by curiosity and a love for solving real-world problems through innovative solutions. From building AI-powered applications that serve hundreds of users to contributing to open-source projects, I thrive on creating meaningful digital experiences. When I'm not coding, you'll find me exploring the latest tech trends, participating in hackathons, or mentoring fellow developers. I believe in the power of technology to transform lives and am constantly pushing myself to learn, grow, and contribute to the tech community. 🚀
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatyadav31&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -28,33 +21,63 @@ const akshat = {
 
 <div align="center">
 
-### 🎯 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,python,cpp,typescript,react,html,css,tailwind,bootstrap,nodejs,express,flask,mongodb,mysql,git,github,aws,firebase&perline=6" alt="Tech Stack" />
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### ⚡ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
+  
+### 🔥 What I'm Working With
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><strong>AWS</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<br><strong>C++</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+</tr>
+</table>
 
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+</div>
+
+### 🎯 Expertise Areas
+<div align="center">
+
+| **Frontend** | **Backend** | **Database** | **DevOps** | **AI/ML** |
+|:---:|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 </div>
 
@@ -72,6 +95,15 @@ const akshat = {
 ## 🏆 Featured Projects
 
 <div align="center">
+
+### 🎨 Prompt Generation Site - Creative AI Tool
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatyadav31&repo=prompt-generator&theme=radical&hide_border=true)](GITHUB_PAGES_LINK_HERE)
+
+`HTML5` `CSS3` `JavaScript` `GitHub Pages` `AI Integration`
+
+🎯 **Interactive prompt creation** | 🎨 **Creative AI assistance** | 🌐 **Live on GitHub Pages**
+
+---
 
 ### 🧠 PACER Quest - AI-Powered Flashcard App
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatyadav31&repo=pacer-quest&theme=radical&hide_border=true)](https://github.com/akshatyadav31/pacer-quest)
@@ -102,46 +134,97 @@ const akshat = {
 
 ## 🎖️ Achievements & Experience
 
-<table align="center">
+<div align="center">
+
+### 💼 Professional Journey
+
+<table width="100%">
 <tr>
-<td align="center" width="33%">
-
-### 💼 Full Stack Development
-**Ethnus Internship**
-- 🏆 92% score & certification
-- 🚀 End-to-end web applications
-- 💡 Modern tech stack mastery
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🚀-Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logoColor=white" />
+<br><br>
+<strong>🏢 Ethnus - Full Stack Development Internship</strong>
+<br><em>April 2025</em><br><br>
+🏆 <strong>92% Score & Certification</strong><br>
+🚀 End-to-end web applications<br>
+💡 Modern tech stack mastery<br>
+⚡ Hands-on industry experience
 </td>
-<td align="center" width="33%">
-
-### 🌟 Open Source Contributions
-**GirlScript Summer of Code**
-- 💻 1,000+ lines of code
-- 🔧 15+ critical issues resolved
-- 🎨 UI/UX enhancements
-
-</td>
-<td align="center" width="33%">
-
-### 🏆 Smart India Hackathon
-**College Finals Qualifier**
-- 🥇 Top performer among 100+ teams
-- 🧠 AI mental health app
-- ⚡ 40% latency reduction
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🌟-Open%20Source%20Contributor-4ECDC4?style=for-the-badge&logoColor=white" />
+<br><br>
+<strong>🌍 GirlScript Summer of Code</strong>
+<br><em>May 2024</em><br><br>
+💻 <strong>1,000+ Lines of Code</strong><br>
+🔧 15+ Critical issues resolved<br>
+🎨 UI/UX performance optimization<br>
+🤝 Collaborative development
 </td>
 </tr>
 </table>
+
+### 🏆 Competition Excellence
+
+<div align="center">
+<img src="https://img.shields.io/badge/🥇-Smart%20India%20Hackathon%20Finalist-FFD93D?style=for-the-badge&logoColor=black" />
+</div>
+
+<table width="100%">
+<tr>
+<td align="center">
+<strong>🧠 AI Mental Health App Development</strong><br>
+<em>October 2023</em><br><br>
+🏅 <strong>College Finals Placement</strong> - Top performer among <strong>100+ teams</strong><br>
+🎯 <strong>25% Diagnostic Accuracy Improvement</strong><br>
+⚡ <strong>40% Latency Reduction</strong><br>
+📱 Flutter-based innovative solution
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📜 Certifications
 
 <div align="center">
 
-| Certification | Provider | Status |
-|---------------|----------|--------|
-| 🌩️ **AWS Cloud Practitioner** | GeeksforGeeks | ✅ Completed |
-| 🌐 **Web Development** | IBM | ✅ Completed |
+### 🎓 Professional Certifications
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<br><br>
+<img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" height="80" />
+<br><br>
+<strong>🌩️ AWS Certified Cloud Practitioner</strong><br>
+<em>Issued by GeeksforGeeks</em><br>
+📅 <strong>Completed: June 2025</strong><br><br>
+☁️ Cloud fundamentals mastery<br>
+🏗️ AWS services architecture<br>
+🚀 Deployment strategies<br>
+⏱️ 4-week intensive program
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/IBM-Web%20Development%20Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<br><br>
+<img src="https://images.credly.com/size/150x150/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="80" height="80" />
+<br><br>
+<strong>🌐 IBM Web Development Professional</strong><br>
+<em>Issued by IBM</em><br>
+📅 <strong>Completed: March 2024</strong><br><br>
+💻 HTML, CSS, JavaScript mastery<br>
+📱 Responsive web design<br>
+🎨 Modern UI/UX principles<br>
+🏆 Industry-recognized credential
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Total%20Certifications-2-brightgreen?style=for-the-badge&logo=certificate&logoColor=white" />
+<img src="https://img.shields.io/badge/Completion%20Rate-100%25-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
 
 </div>
 
