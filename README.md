@@ -97,7 +97,7 @@ I'm a passionate **Computer Science Engineering student** at **VIT Bhopal** with
 <div align="center">
 
 ### 🎨 Prompt Generation Site - Creative AI Tool
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatyadav31&repo=prompt-generator&theme=radical&hide_border=true)](GITHUB_PAGES_LINK_HERE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatyadav31&repo=prompt-generator&theme=radical&hide_border=true)](bit.ly/prompt-enhancer)
 
 `HTML5` `CSS3` `JavaScript` `GitHub Pages` `AI Integration`
 
